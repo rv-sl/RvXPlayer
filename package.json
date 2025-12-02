@@ -1,0 +1,13 @@
+{
+  "name": "rvxplayer",
+  "version": "1.0.0",
+  "description": "RvXPlayer - modular HTML5 video player (HLS, GDrive, SRT, encrypted ID loader)",
+  "module": "dist/rvxplayer.esm.js",
+  "type": "module",
+  "license": "MIT",
+  "author": "Rv-SL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rv-sl/RvXPlayer"
+  }
+}
